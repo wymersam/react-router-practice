@@ -1,0 +1,20 @@
+/* Navigation links */
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  list-style: none;
+}
+.nav-link {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  padding: 10px 25px;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 10px;
+}
+.nav-link:hover {
+  background: #ee8d96;
+}
